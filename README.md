@@ -2,7 +2,10 @@
 
 TidyTube is a totally free, serverless, client-side web application designed to help you quickly organize, clean up, and batch-manage your YouTube account. If you've ever been frustrated by YouTube's inability to let you select multiple videos at once to delete them, move them between playlists, or clear out dead subscriptions holding a grudge, this is for you.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/evanpark)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/YOUR_USERNAME)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/YOUR_USERNAME)
+[![GitHub Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/YOUR_GITHUB_USERNAME)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/YOUR_USERNAME)
 
 ## Features
 *   **Batch Delete & Move:** Select dozens of videos at once and move them between playlists or delete them entirely with a single click.
